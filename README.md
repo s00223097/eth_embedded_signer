@@ -2,6 +2,10 @@
 
 An extremely basic implementation of Ethereum transaction signing - related to my chainstaterealty project. 
 
+Thanks to the inspiration and ideas provided by the code in the following projects on Github:
+- https://github.com/paulmillr/micro-eth-signer
+- https://github.com/pubkey/eth-crypto
+
 ## Features
 
 > Most of these are at least somewhat implemented but they are not polished or ready for anything other than haphazard dev testing right now. I haven't done much with C up till now, the code probably reflects that and it's also why the comments are very obvious and almost every fx has 3-4 lines explaining every part. 
