@@ -16,8 +16,8 @@ Thanks to the inspiration and ideas provided by the code in the following projec
   - EIP-1559 transactions (priority fee; changeable)
 
 - **Cryptographic Operations**:
-  - Keccak-256 hashing (stub implementation)
-  - ECDSA signing and verification on the secp256k1 curve (stub implementation)
+  - Keccak-256 hashing (barebones implementation)
+  - ECDSA signing and verification on the secp256k1 curve (barebones implementation)
   - Public key to Ethereum address derivation
 
 - **RLP Encoding**:
@@ -29,7 +29,7 @@ Thanks to the inspiration and ideas provided by the code in the following projec
 
 - **Contract Interaction**:
   - Support for smart contract function calls
-  - ABI encoding (attaempted effort)
+  - ABI encoding (attempted effort)
 
 ## Building
 
